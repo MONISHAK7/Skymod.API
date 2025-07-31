@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JGUviLJg9ADD6kMTaJFSUpQvEfT7GNLBnBvXJTewPPU=",
+  "Source": "Skymod.API",
+  "BasePath": "_content/Skymod.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

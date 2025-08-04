@@ -104,7 +104,7 @@ export default function Home() {
         <h3 className="text-4xl font-bold text-center text-blue-700 mb-12">Meet Our Team</h3>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10">
           <div className="text-center">
-            <Image src="/female.png" alt="CEO" width={120} height={120} className="rounded-full mx-auto mb-3 shadow" />
+            <Image src="/monisha.png" alt="CEO" width={120} height={120} className="rounded-full mx-auto mb-3 shadow" />
             <p className="font-bold text-blue-800">Monisha K</p>
             <p className="text-gray-600">CEO & Project Strategist</p>
           </div>

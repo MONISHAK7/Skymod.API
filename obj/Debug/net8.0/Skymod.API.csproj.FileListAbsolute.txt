@@ -171,3 +171,8 @@
 /Users/monishakesavan/Skymod.API/obj/Debug/net8.0/Skymod.API.pdb
 /Users/monishakesavan/Skymod.API/obj/Debug/net8.0/Skymod.API.genruntimeconfig.cache
 /Users/monishakesavan/Skymod.API/obj/Debug/net8.0/ref/Skymod.API.dll
+/Users/monishakesavan/Skymod.API/bin/Debug/net8.0/package-lock.json
+/Users/monishakesavan/Skymod.API/bin/Debug/net8.0/skymod-frontend/package-lock.json
+/Users/monishakesavan/Skymod.API/bin/Debug/net8.0/skymod-frontend/package.json
+/Users/monishakesavan/Skymod.API/bin/Debug/net8.0/skymod-frontend/tsconfig.json
+/Users/monishakesavan/Skymod.API/obj/Debug/net8.0/Skymod.API.sourcelink.json

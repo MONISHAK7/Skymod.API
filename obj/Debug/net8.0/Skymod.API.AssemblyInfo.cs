@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Skymod.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+852e9fc73c2ebbc18ff17caf332246e6b9cd8f47")]
 [assembly: System.Reflection.AssemblyProductAttribute("Skymod.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Skymod.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

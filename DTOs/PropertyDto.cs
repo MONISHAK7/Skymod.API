@@ -11,4 +11,5 @@ public class PropertyDto
     // You can include basic user info, not the full AppUser
     public string? UserId { get; set; }
     public string? Username { get; set; }
+    public string? ImageUrl { get; set; }
 }

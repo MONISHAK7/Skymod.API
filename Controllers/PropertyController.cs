@@ -2,7 +2,6 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Skymod.API.Data;
-using Skymod.API.Models;
 
 namespace Skymod.API.Controllers
 {

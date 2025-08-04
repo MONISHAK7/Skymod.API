@@ -10,4 +10,5 @@ public class Property
 
     public string UserId { get; set; } = string.Empty;  // FK to AppUser
     public AppUser? User { get; set; }   // If you're using Identity or custom User
+    public string? ImageUrl { get; set; }
 }

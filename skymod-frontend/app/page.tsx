@@ -46,7 +46,7 @@ export default function Home() {
         <h3 className="text-4xl font-bold text-center text-blue-700 mb-12">Our Projects</h3>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10 max-w-6xl mx-auto">
           <div className="p-6 border-2 border-blue-100 rounded-xl shadow-lg bg-white hover:shadow-xl transition">
-            <Image src="/completed.png" alt="Completed Projects" width={600} height={300} className="rounded mb-4 mx-auto" />
+            <Image src="/completed.jpg" alt="Completed Projects" width={600} height={300} className="rounded mb-4 mx-auto" />
             <h4 className="font-bold text-xl text-center text-blue-700 mb-2">Completed Projects</h4>
             <ul className="list-disc pl-5 text-gray-700">
               <li>16A Park Street, VIC</li>
@@ -55,7 +55,7 @@ export default function Home() {
             </ul>
           </div>
           <div className="p-6 border-2 border-blue-100 rounded-xl shadow-lg bg-white hover:shadow-xl transition">
-            <Image src="/ongoing.png" alt="Ongoing Projects" width={600} height={300} className="rounded mb-4 mx-auto" />
+            <Image src="/ongoing.jpg" alt="Ongoing Projects" width={600} height={300} className="rounded mb-4 mx-auto" />
             <h4 className="font-bold text-xl text-center text-blue-700 mb-2">Ongoing Projects</h4>
             <ul className="list-disc pl-5 text-gray-700">
               <li>92 Hunter Rd, SA</li>
@@ -63,7 +63,7 @@ export default function Home() {
             </ul>
           </div>
           <div className="p-6 border-2 border-blue-100 rounded-xl shadow-lg bg-white hover:shadow-xl transition">
-            <Image src="/upcoming.png" alt="Upcoming Projects" width={600} height={300} className="rounded mb-4 mx-auto" />
+            <Image src="/upcoming.jpg" alt="Upcoming Projects" width={600} height={300} className="rounded mb-4 mx-auto" />
             <h4 className="font-bold text-xl text-center text-blue-700 mb-2">Upcoming Projects</h4>
             <ul className="list-disc pl-5 text-gray-700">
               <li>33 Oak Hill Dr, TAS</li>
